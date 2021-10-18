@@ -2,7 +2,7 @@
 
 👀 I’m interested in profound things
 
-🌱 I’m currently learning ML
+<!---🌱 I’m currently learning ML--->
 
 📫 Reach me at shingambaofficial@gmail.com 
 
