@@ -1,6 +1,6 @@
 👋 Hi, I’m Shingamba
 
-👀 I’m interested in profound things
+👀 I’m interested in profound things from tech to philosophy to art, that makes life worthwhile.
 
 <!---🌱 I’m currently learning ML--->
 
